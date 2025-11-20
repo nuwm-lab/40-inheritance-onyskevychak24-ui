@@ -1,4 +1,5 @@
 using System;
+
 class QuadraticEquation
 {
     protected double b2, b1, b0;
